@@ -1,1 +1,1 @@
-# hotel-reservation-system
+# ホテル予約システム
